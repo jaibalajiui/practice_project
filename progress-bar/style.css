@@ -1,0 +1,10 @@
+.progress{
+    width: 1000px;
+    height: 50px;
+    background-color: blanchedalmond;
+}
+#filler{
+  background-color: green;
+  height: 50px;
+  width: 0%;
+}
